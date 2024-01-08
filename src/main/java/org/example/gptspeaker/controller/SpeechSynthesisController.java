@@ -1,4 +1,4 @@
 package org.example.gptspeaker.controller;
 
-public class GptChatController {
+public class SpeechSynthesisController {
 }
